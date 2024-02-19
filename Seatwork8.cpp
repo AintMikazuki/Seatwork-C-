@@ -21,5 +21,9 @@ int main()
         sum += num[z];
     }
 
+    cout<<endl;
     cout<<"The total sum is: "<<sum<<endl<<endl;
+
+    return EXIT_SUCCESS;
 }
+//A - 22, CORPUZ, Justin F.
